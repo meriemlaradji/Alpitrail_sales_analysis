@@ -59,13 +59,3 @@ Le dataset contient volontairement plusieurs erreurs pour simuler un vrai projet
 - Analyse de l’efficacité des canaux d’acquisition  
 - Prédiction des ventes avec un RMSE acceptable, permettant de mieux planifier la production et le stock  
 
-## Captures du dashboard
-![Sales performance dashboard](images/dashboard_region.png)
-![Feature Importance Machine Learning](images/feature_importance.png) 
-
-## Outils utilisés
-- Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn)  
-- SQL (jointures, agrégations, calcul KPI)  
-- Google Colab
-- PowerBi
-- GitHub
